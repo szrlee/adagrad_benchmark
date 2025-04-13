@@ -1,0 +1,22 @@
+    # Python cache
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+
+    # Virtual environment (if you use one within the project)
+    # venv/
+    # env/
+    # .venv/
+
+    # OS generated files
+    .DS_Store
+    Thumbs.db
+
+    # IDE files (examples)
+    # .vscode/
+    # .idea/
+
+    # Output files (optional - depends if you want to track results/plots)
+    # results/
+    # plots/
